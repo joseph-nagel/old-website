@@ -113,3 +113,9 @@ Beyond the above, one can of course find more physical concepts in deep learning
 - Symmetries in CNN architectures [[Cohen and Welling, 2016](https://arxiv.org/abs/1602.07576); [Cheng et al., 2019](https://arxiv.org/abs/1906.02481)]
 - Physics-informed ML [[Karniadakis et al., 2021](https://doi.org/10.1038/s42254-021-00314-5); [Blechschmidt and Ernst, 2021](https://doi.org/10.1002/gamm.202100006); [Cuomo et al., 2022](https://doi.org/10.1007/s10915-022-01939-z)] (see also [this post](/2024/12/09/pinn.html))
 - Dynamical systems and control theory perspective of neural nets [[E et al., 2017](https://doi.org/10.1007/s40304-017-0103-z); [Chen et al., 2018](https://arxiv.org/abs/1806.07366); [Benning et al., 2019](https://arxiv.org/abs/1904.05657); [Li et al., 2023](https://doi.org/10.4171/jems/1221)]
+
+
+---
+#### Related posts
+
+- [Boltzmann + the machine]({% post_url 2025-11-07-rbm %})

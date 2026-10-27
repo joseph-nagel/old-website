@@ -47,3 +47,9 @@ repos:
       args: [ --fix ]
     - id: ruff-format
 ```
+
+
+---
+#### Related posts
+
+- [Ruff linter and formatter]({% post_url 2026-04-01-ruff %})

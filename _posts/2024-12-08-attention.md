@@ -150,3 +150,9 @@ It is widespread practice to mask out certain elements of the attention matrix. 
 Beyond that, another motivation of masking is to reduce the computational complexity. The global all-to-all attention suffers from a $$\mathcal{O}(n^2)$$ time and memory complexity ($$n$$ is the sequence length). In order to enable long context lengths, one may restrict the attention to local neighborhoods of each token through a **sliding windows** scheme [[Beltagy et al., 2020](https://arxiv.org/abs/2004.05150)]. This reduces the complexity to $$\mathcal{O}(n \cdot w)$$ (the window size is denoted as $$w$$).
 
 The scaling problem also emerges for the ViT. Its complexity is quadratic in the image size. A **shifted windows** partitioning scheme for the ViT has been presented in [[Liu et al., 2021](https://arxiv.org/abs/2103.14030)]. It limits self-attention to non-overlapping windows, while it still allows for certain cross-window connections. This approach features a complexity that is only linear in the image size.
+
+
+---
+#### Related posts
+
+- [Self-supervised learning]({% post_url 2026-10-19-ssl %})

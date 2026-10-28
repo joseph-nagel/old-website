@@ -34,3 +34,12 @@ This is the repository of my personal website made with [GitHub Pages](https://d
     ```bash
     magick assets/images/Photo.jpg -define icon:auto-resize=16,32,48,64 -flatten -colors 256 favicon.ico
     ``` -->
+
+<!-- - Use a specific Ruby version:
+    ```
+    sudo dnf install rbenv
+    rbenv install 3.1.7
+    rbenv global 3.1.7
+    eval "$(rbenv init -)"
+    gem install bundler -v 2.3.27
+    ``` -->

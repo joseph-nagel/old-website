@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "GeoPandas"
-mathjax: true
 tags: ["GeoPandas", "Geospatial data analysis"]
 thumbnail-img: https://raw.githubusercontent.com/joseph-nagel/ml-notebooks/main/assets/europe_map.svg
 ---

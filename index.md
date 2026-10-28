@@ -5,6 +5,4 @@ title: Hey, I'm Joseph
 ---
 
 {: .box-note}
-This is becoming my personal website.
-I may post on machine learning and other things.
-Everything is work in progress.
+This is becoming my personal website. I may post on machine learning and other things. Everything is work in progress.
